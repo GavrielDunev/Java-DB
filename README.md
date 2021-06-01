@@ -1,2 +1,2 @@
 # SoftUni - Java - DB
-MySQL &amp; Spring Data Topics and Exercises
+MySQL &amp; Spring Data (Topics and Exercises)
