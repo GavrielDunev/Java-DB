@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users count="52">
+    <user first-name="Anna" last-name="Parker" age="56">
+        <sold-products name="U-max Multi BB" price="137.16"/>
+        <sold-products name="CHAMOMILLA" price="37.97"/>
+        <sold-products name="Cold and Cough" price="218.14"/>
+        <sold-products name="Lorazepam" price="1134.96"/>
+        <sold-products name="CARBIDOPA AND LEVODOPA" price="441.64"/>
+        <sold-products name="Irbesartan and Hydrochlorothiazide" price="308.30"/>
+        <sold-products name="Ibuprofen" price="1088.04"/>
+        <sold-products name="Ondansetron" price="1249.76"/>
+        <sold-products name="Etodolac" price="1443.13"/>
+    </user>
+    <user first-name="Brenda" last-name="Howell" age="75">
+        <sold-products name="No7 Protect and Perfect Foundation Sunscreen Broad Spectrum SPF 15 Cool Ivory" price="616.19"/>
+        <sold-products name="BareMinerals Golden Tan matte" price="110.93"/>
+        <sold-products name="Glycopyrrolate" price="1471.43"/>
+        <sold-products name="Enchanted Moments Mistletoe Kisses Hand Sanitizer" price="384.99"/>
+        <sold-products name="Ketorolac Tromethamine" price="608.18"/>
+        <sold-products name="PLANTAGO LANCEOLATA POLLEN" price="561.68"/>
+        <sold-products name="Hydralazine Hydrochloride" price="1309.72"/>
+        <sold-products name="ziprasidone hydrochloride" price="628.66"/>
+    </user>
+    <user first-name="Gary" last-name="Stevens">
+        <sold-products name="Zonisamide" price="1305.41"/>
+        <sold-products name="Warfarin Sodium" price="1379.79"/>
+        <sold-products name="ORCHID SECRET PACT" price="59.53"/>
+        <sold-products name="XANTHIUM STRUMARIUM VAR CANADENSE POLLEN" price="1091.38"/>
+        <sold-products name="Acnezzol Base" price="710.60"/>
+        <sold-products name="Effervescent Cold Relief" price="1436.07"/>
+        <sold-products name="Parsley" price="519.06"/>
+        <sold-products name="Butalbital, Aspirin and Caffeine" price="1010.98"/>
+    </user>
+    <user first-name="Sarah" last-name="Day" age="33">
+        <sold-products name="Agaricus Equisetum Special Order" price="585.93"/>
+        <sold-products name="Myristica Argentum Sinus Relief" price="904.52"/>
+        <sold-products name="NEO-POLY-BAC HYDRO" price="967.32"/>
+        <sold-products name="Allopurinol" price="518.50"/>
+        <sold-products name="Fluoxetine" price="385.37"/>
+        <sold-products name="SUMATRIPTAN SUCCINATE" price="1265.94"/>
+        <sold-products name="leader pain reliever" price="1179.79"/>
+    </user>
+    <user first-name="Patrick" last-name="King">
+        <sold-products name="Phenylephrine HCl" price="459.89"/>
+        <sold-products name="Prednisone" price="550.72"/>
+        <sold-products name="Megestrol Acetate" price="976.15"/>
+        <sold-products name="Etoposide" price="1483.96"/>
+        <sold-products name="ESIKA 3-IN-1 PRO MAKE UP FOUNDATION SPF 20 BASE DE MAQUILLAJE PARA ROSTRO 3-EN-1 PRO FPS 20" price="1097.60"/>
+        <sold-products name="Levothyroxine Sodium" price="885.86"/>
+        <sold-products name="Amitiza" price="666.58"/>
+    </user>
+    <user last-name="Mitchell" age="41">
+        <sold-products name="Flumazenil" price="1151.37"/>
+        <sold-products name="EPZICOM" price="895.65"/>
+        <sold-products name="Propranolol Hydrochloride" price="546.95"/>
+        <sold-products name="Topiramate" price="578.77"/>
+        <sold-products name="Fair Foundation SPF 15" price="1394.24"/>
+        <sold-products name="PREMIER VALUE ALLERGY" price="1127.61"/>
+        <sold-products name="Labetalol Hydrochloride" price="1345.11"/>
+    </user>
+    <user first-name="Christina" last-name="Patterson" age="63">
+        <sold-products name="Clarins Paris Skin Illusion - 114 cappuccino" price="811.42"/>
+        <sold-products name="MEDICATED DANDRUFF" price="1351.02"/>
+        <sold-products name="TERSI" price="554.91"/>
+        <sold-products name="Oxygen" price="1242.92"/>
+        <sold-products name="Diastat" price="614.14"/>
+        <sold-products name="Strattera" price="658.54"/>
+        <sold-products name="Buprenorphine hydrochloride" price="391.05"/>
+    </user>
+    <user first-name="Fred" last-name="Barnes">
+        <sold-products name="Warfarin Sodium" price="138.83"/>
+        <sold-products name="Goats Milk" price="298.53"/>
+        <sold-products name="Imipramine Hydrochloride" price="648.69"/>
+        <sold-products name="Stila Hydrating Primer Oil-Free SPF 30" price="179.28"/>
+        <sold-products name="Homeopathic Rheumatism" price="967.08"/>
+        <sold-products name="Yellow Jacket hymenoptera venom Venomil Diagnostic" price="23.58"/>
+    </user>
+    <user first-name="Clarence" last-name="Fowler" age="50">
+        <sold-products name="Clearskin" price="968.59"/>
+        <sold-products name="LV-FX" price="820.87"/>
+        <sold-products name="Meloxicam" price="809.18"/>
+        <sold-products name="Retin-A MICRO" price="995.98"/>
+        <sold-products name="TYLENOL COLD MULTI-SYMPTOM DAYTIME" price="1010.81"/>
+        <sold-products name="Acetaminophen, Chlorpheniramine Maleate, Dextromethorphan Hydrobromide, Phenylephrine Hydrochloride" price="1028.27"/>
+    </user>
+    <user first-name="Wanda" last-name="Harris" age="26">
+        <sold-products name="Dawn Ultra Antibacterial Hand" price="969.86"/>
+        <sold-products name="ENALAPRIL MALEATE" price="210.42"/>
+        <sold-products name="Fexofenadine HCl and Pseudoephedrine HCI" price="73.07"/>
+        <sold-products name="equaline" price="520.45"/>
+        <sold-products name="smart sense nicotine" price="1444.12"/>
+        <sold-products name="Treatment Set TS336667" price="1466.47"/>
+    </user>
+    <user last-name="Thompson" age="46">
+        <sold-products name="Pleo Lat" price="720.08"/>
+        <sold-products name="Albuterol" price="108.95"/>
+        <sold-products name="Almond" price="367.32"/>
+        <sold-products name="Ampicillin" price="674.63"/>
+        <sold-products name="H-Rosacea Formula" price="99.74"/>
+        <sold-products name="Aquafresh" price="849.93"/>
+    </user>
+    <user first-name="Anna" last-name="Clark" age="41">
+        <sold-products name="kirkland signature minoxidil" price="49.17"/>
+        <sold-products name="Spironolactone" price="933.69"/>
+        <sold-products name="Glipizide and Metformin Hydrochloride" price="953.60"/>
+        <sold-products name="Gilotrif" price="1454.77"/>
+        <sold-products name="Perrigo Benzoyl Peroxide" price="873.24"/>
+    </user>
+    <user first-name="Carl" last-name="Daniels" age="59">
+        <sold-products name="smart sense nighttime cold and flu relief" price="1101.77"/>
+        <sold-products name="PANTOPRAZOLE SODIUM" price="293.89"/>
+        <sold-products name="DIVALPROEX SODIUM" price="1287.03"/>
+        <sold-products name="XtraCare Foam Antibacterial Hand Wash" price="1251.97"/>
+        <sold-products name="Dover Aminophen" price="192.07"/>
+    </user>
+    <user first-name="Patricia" last-name="Fuller" age="36">
+        <sold-products name="Glipizide" price="621.78"/>
+        <sold-products name="Leg Cramp Relief" price="1345.69"/>
+        <sold-products name="Prednisone" price="1285.99"/>
+        <sold-products name="VITALUMIERE AQUA" price="1293.09"/>
+        <sold-products name="DIPYRIDAMOLE" price="1150.67"/>
+    </user>
+    <user first-name="Christine" last-name="Gomez" age="28">
+        <sold-products name="DAYWEAR PLUS MULTI PROTECTION TINTED MOISTURIZER" price="555.12"/>
+        <sold-products name="Head and Shoulders Conditioner" price="1099.59"/>
+        <sold-products name="Foaming Hand Sanitizer" price="624.72"/>
+        <sold-products name="ESIKA" price="879.37"/>
+        <sold-products name="Amitriptyline Hydrochloride" price="1453.96"/>
+    </user>
+    <user first-name="Diana" last-name="Harvey" age="46">
+        <sold-products name="cough and sore throat" price="1482.68"/>
+        <sold-products name="Pollens - Weeds and Garden Plants, Nettle Urtica dioica" price="782.77"/>
+        <sold-products name="Pollens - Weeds and Garden Plants, Scotch Broom Cytisus scoparius" price="135.82"/>
+        <sold-products name="Metoprolol Tartrate" price="1405.74"/>
+        <sold-products name="Acid Reducer" price="1443.51"/>
+    </user>
+    <user first-name="Jean" last-name="Henry">
+        <sold-products name="Burn Jel" price="209.57"/>
+        <sold-products name="ERYTHROMYCIN Base Filmtab" price="117.84"/>
+        <sold-products name="Topex" price="1258.49"/>
+        <sold-products name="Cefadroxil" price="1302.20"/>
+        <sold-products name="Echinacea Quartz Gum Support" price="570.08"/>
+    </user>
+    <user first-name="Emily" last-name="Parker" age="41">
+        <sold-products name="Buprenorphine hydrochloride and naloxone hydrochloride dihydrate" price="293.33"/>
+        <sold-products name="Ringers" price="1054.37"/>
+        <sold-products name="Extra Strength Pain Reliever PM" price="542.72"/>
+        <sold-products name="CALMING DIAPER RASH" price="700.92"/>
+        <sold-products name="Triamterene and Hydrochlorothiazide" price="1416.59"/>
+    </user>
+    <user last-name="Baker">
+        <sold-products name="Finasteride" price="1374.01"/>
+        <sold-products name="Smooth texture Orange flavor" price="976.65"/>
+        <sold-products name="PRIMAXIN" price="686.66"/>
+        <sold-products name="Pioglitazone" price="306.56"/>
+    </user>
+    <user first-name="Benjamin" last-name="Henry" age="63">
+        <sold-products name="GOONG SECRET CALMING BATH" price="742.47"/>
+        <sold-products name="Allopurinol" price="48.80"/>
+        <sold-products name="Baza Antifungal" price="1162.34"/>
+        <sold-products name="up and up temporary minor arthritis pain relief" price="1085.78"/>
+    </user>
+    <user first-name="Sandra" last-name="Riley" age="74">
+        <sold-products name="Lamotrigine Extended Release" price="245.63"/>
+        <sold-products name="CLARINS Ever Matte SPF 15 - 105 Nude" price="696.06"/>
+        <sold-products name="Metformin Hydrochloride" price="953.99"/>
+        <sold-products name="Gehwol med Lipidro" price="421.24"/>
+    </user>
+    <user last-name="Schmidt" age="70">
+        <sold-products name="Glyburide" price="95.10"/>
+        <sold-products name="Amlodipine Besylate" price="122.57"/>
+        <sold-products name="LBEL Couleur Luxe Rouge Amplifier XP amplifying SPF 15" price="1069.43"/>
+        <sold-products name="allergy eye" price="426.91"/>
+    </user>
+    <user first-name="Eugene" last-name="Stewart" age="65">
+        <sold-products name="Leflunomide" price="312.85"/>
+        <sold-products name="Pollens - Trees, Birch Mix" price="1153.54"/>
+        <sold-products name="ropinirole hydrochloride" price="103.58"/>
+        <sold-products name="ISOPROPYL ALCOHOL" price="339.48"/>
+    </user>
+    <user first-name="Gloria" last-name="Alexander" age="61">
+        <sold-products name="LANEIGE MYSTIC VEIL FOUNDATION" price="20.86"/>
+        <sold-products name="Fosphenytoin Sodium" price="1334.06"/>
+        <sold-products name="Naproxen" price="807.22"/>
+    </user>
+    <user first-name="Fred" last-name="Allen" age="57">
+        <sold-products name="MOIST MOISTURE SKIN TONER" price="152.43"/>
+        <sold-products name="Ranitidine" price="926.64"/>
+        <sold-products name="Laser Block 100" price="1135.43"/>
+    </user>
+    <user last-name="Cunningham">
+        <sold-products name="SEPHORA Acne-Fighting Mattifying Moisturizer" price="1019.28"/>
+        <sold-products name="olio activ mouthwash" price="206.06"/>
+        <sold-products name="Nevirapine" price="1374.72"/>
+    </user>
+    <user last-name="Fox" age="68">
+        <sold-products name="MEDI-FIRST Non-Aspirin" price="1301.28"/>
+        <sold-products name="Carbon Dioxide Oxygen Mixture" price="95.49"/>
+        <sold-products name="Nighttime Sleep Aid" price="1217.11"/>
+    </user>
+    <user first-name="Amanda" last-name="Frazier">
+        <sold-products name="TRAMADOL HYDROCHLORIDE" price="516.48"/>
+        <sold-products name="GEMCITABINE" price="1468.11"/>
+        <sold-products name="PCA SKIN ACNE" price="1356.22"/>
+    </user>
+    <user first-name="Nicole" last-name="Harris" age="43">
+        <sold-products name="Childrens Allegra Allergy" price="650.97"/>
+        <sold-products name="AMARANTHUS PALMERI POLLEN" price="623.16"/>
+        <sold-products name="Growing Pains" price="1077.37"/>
+    </user>
+    <user last-name="Harrison" age="18">
+        <sold-products name="Shopko Lip Treatment" price="861.42"/>
+        <sold-products name="Alternaria alternata" price="61.24"/>
+        <sold-products name="Budpak Hemorrhoid Anesthetic" price="1499.29"/>
+    </user>
+    <user first-name="Chris" last-name="Mitchell" age="59">
+        <sold-products name="Eszopiclone" price="405.03"/>
+        <sold-products name="Etomidate" price="393.94"/>
+        <sold-products name="PAMO Kill Natural" price="1181.06"/>
+    </user>
+    <user first-name="Joshua" last-name="Murray" age="41">
+        <sold-products name="Moore Medical Sinus Pain and Pressure Relief" price="855.39"/>
+        <sold-products name="IOPE SUPER VITAL" price="824.68"/>
+        <sold-products name="Prostate" price="716.05"/>
+    </user>
+    <user first-name="Billy" last-name="Parker" age="68">
+        <sold-products name="Care One Hemorrhoidal" price="932.18"/>
+        <sold-products name="Benazepril Hydrochloride and Hydrochlorothiazide" price="1187.27"/>
+        <sold-products name="Gemcitabine" price="594.79"/>
+    </user>
+    <user first-name="Jacqueline" last-name="Perez" age="25">
+        <sold-products name="Peter Island Continous sunscreen kids" price="471.30"/>
+        <sold-products name="Protonix" price="466.70"/>
+        <sold-products name="AIR" price="581.69"/>
+    </user>
+    <user last-name="Peterson" age="72">
+        <sold-products name="ROPINIROLE HYDROCHLORIDE" price="266.44"/>
+        <sold-products name="Wintergreen Isopropyl Alcohol" price="1397.57"/>
+        <sold-products name="RESCRIPTOR" price="850.52"/>
+    </user>
+    <user first-name="Arthur" last-name="Reynolds" age="32">
+        <sold-products name="ENBREL" price="673.97"/>
+        <sold-products name="Allopurinol" price="336.81"/>
+        <sold-products name="ANXIETY/STRESS RELIEF" price="324.66"/>
+    </user>
+    <user first-name="Jennifer" last-name="Riley">
+        <sold-products name="SNORING HP" price="53.59"/>
+        <sold-products name="Topical 60 Sec Sodium Fluoride" price="1228.84"/>
+        <sold-products name="Aspen" price="1046.46"/>
+    </user>
+    <user last-name="Stewart" age="39">
+        <sold-products name="Warfarin Sodium" price="770.05"/>
+        <sold-products name="REYATAZ" price="41.97"/>
+        <sold-products name="IOPE RETIGEN MOISTURE TWIN CAKE NO.21" price="1257.71"/>
+    </user>
+    <user last-name="Bennett">
+        <sold-products name="Archangelica Eucalyptus" price="1334.91"/>
+        <sold-products name="pain relief" price="938.23"/>
+    </user>
+    <user first-name="Doris" last-name="Cook" age="61">
+        <sold-products name="Alcohol Free Antiseptic" price="1486.07"/>
+        <sold-products name="Aspirin" price="925.45"/>
+    </user>
+    <user first-name="Patricia" last-name="Cooper" age="72">
+        <sold-products name="Enalapril Maleate" price="72.71"/>
+        <sold-products name="Isosorbide Mononitrate" price="789.91"/>
+    </user>
+    <user first-name="Kathy" last-name="Gilbert" age="51">
+        <sold-products name="EMEND" price="1365.51"/>
+        <sold-products name="Acetic Acid" price="1060.43"/>
+    </user>
+    <user first-name="Rachel" last-name="Johnson" age="24">
+        <sold-products name="Allergena" price="109.32"/>
+        <sold-products name="Aspergillus repens" price="1231.42"/>
+    </user>
+    <user first-name="Nicole" last-name="Martinez" age="28">
+        <sold-products name="Air" price="331.53"/>
+        <sold-products name="Ibuprofen" price="1305.96"/>
+    </user>
+    <user first-name="Thomas" last-name="Snyder" age="40">
+        <sold-products name="Trihexyphenidyl Hydrochloride" price="64.88"/>
+        <sold-products name="Americaine" price="1165.75"/>
+    </user>
+    <user first-name="Betty" last-name="Ward" age="70">
+        <sold-products name="Azithromycin" price="813.87"/>
+        <sold-products name="Pleo Ginkgo" price="613.65"/>
+    </user>
+    <user first-name="Jeremy" last-name="Woods" age="20">
+        <sold-products name="PredniSONE" price="286.43"/>
+        <sold-products name="AVANDAMET" price="632.08"/>
+    </user>
+    <user first-name="Bonnie" last-name="Fox" age="18">
+        <sold-products name="Metaxalone" price="79.94"/>
+    </user>
+    <user first-name="Paula" last-name="Hill" age="74">
+        <sold-products name="CD CAPTURE TOTALE Triple Correcting Serum Foundation Wrinkles-Dark Spots-Radiance with sunscreen Broad Spectrum SPF 25 010" price="77.23"/>
+    </user>
+    <user first-name="Jonathan" last-name="Rodriguez">
+        <sold-products name="CEDAX" price="342.86"/>
+    </user>
+    <user first-name="Ann" last-name="Stevens">
+        <sold-products name="CVS Therapeutic Menthol Pain Reliever" price="1033.42"/>
+    </user>
+    <user first-name="Marie" last-name="Williamson">
+        <sold-products name="Labetalol hydrochloride" price="436.38"/>
+    </user>
+</users>
